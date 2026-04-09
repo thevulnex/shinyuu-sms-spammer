@@ -462,7 +462,7 @@ async function calistirArac(){ console.clear();
 "/____/_/ /_/___/_/ |_/   /_/\____/\____/   /____/_/  /_//____/"
 
 ].join('\n');
- const alt = "\n   CODER: LUAX\n";
+ const alt = "\n   CODER: vulnex.\n";
  console.log('\x1b[35m' + banner + '\x1b[0m' + '\n' + '\x1b[36m' + alt + '\x1b[0m');
  const telnogir = readlineSync.question('Telefon numarasini giriniz kanzi orn :(5555555555): ');
  const telefon = telNormalizeEt(telnogir);
